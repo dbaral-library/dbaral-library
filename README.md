@@ -13,7 +13,7 @@ I am a detail-oriented Master's student passionate about the "Life of Data"—fr
 - **Certifications in Progress:** ☁️ Microsoft DP-900 | 🟦 Azure Fundamentals | 📊 Google Data Analytics.
 
 ### 📁 Featured Projects
-- **[Data-Governance-Framework](link)**: Research-based repository on administrative IT systems.
+- **[Data-Governance-Framework](https://github.com/dbaral-library/Data-Governance-Framework)**: Research-based repository on administrative IT systems.
 - **[SQL-Data-Quality-Audit](link)**: Scripts for identifying "dirty data" in administrative databases.
 
 ---
